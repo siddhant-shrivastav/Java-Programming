@@ -1,3 +1,5 @@
+// Write a Java code for vote or not...
+
 import java.util.*;
 public class age {
     public static void main(String[] args){

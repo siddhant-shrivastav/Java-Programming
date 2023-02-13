@@ -1,3 +1,4 @@
+// Student Result "Pass or Fail" using Ternary Operator...
 import java.util.*;
 public class StdRes {
     public static void main(String args[]){

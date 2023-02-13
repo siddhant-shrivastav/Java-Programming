@@ -1,3 +1,4 @@
+// Even Or Odd Using Tearnary Operator...
 import java.util.*;
 public class TernaryOp {
     public static void main(String[] args){
